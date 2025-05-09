@@ -34,17 +34,6 @@ public class SearchResultsPage {
                         "4.6 (28)\n" +
                         "1.499 TL\n" +
                         "Anneler Günü Son Fırsatlar\"]")));
-                //By.xpath("//androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup")));
-              /* By.xpath("//android.view.View[@content-desc=\"Karaca Icequeen 18 Parça 6 Kişilik Yemek Takımı\n" +
-                        "4.6 (28)\n" +
-                        "1.499 TL\n" +
-                        "Anneler Günü Son Fırsatlar\"]")
-        ));
-
-               */
-
-
-
 
         // 2. Liste boş değilse ilk ürüne tıkla
         if (!productList.isEmpty()) {
